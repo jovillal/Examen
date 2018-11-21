@@ -6,7 +6,7 @@
 4. En File->New->Terminal puede abrir una terminal para probar el codigo.
 5. En la misma terminal utilice git para subir el codigo con las respuestas.
 
-# Nota
+# Aviso importante
 Si van a usar matplotlib dentro de un programa deben escribir
 
 ```
